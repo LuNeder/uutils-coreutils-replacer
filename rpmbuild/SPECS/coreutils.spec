@@ -39,6 +39,7 @@ Provides:       /usr/bin/base64
 Provides:       /usr/bin/basename
 Provides:       /usr/bin/basenc
 Provides:       /usr/bin/cat
+Provides:       /bin/cat
 Provides:       /usr/bin/chgrp
 Provides:       /usr/bin/chmod
 Provides:       /usr/bin/chown
