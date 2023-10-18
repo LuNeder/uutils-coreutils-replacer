@@ -3,4 +3,5 @@ commandsuu="[ arch b2sum b3sum base32 base64 basename basenc cat chgrp chmod cho
 
 for i in $commandsuu; do
     echo 'Provides:       '/usr/bin/$i
+    echo 'Provides:       '/bin/$i
 done
